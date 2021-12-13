@@ -76,7 +76,7 @@ const runSalesBot = async () => {
         }
     }
 }
-runSalesBot();$ PROJECT_ADDRESS=2Af8Dtdt7a2Pvqu4dL5ybKyYp9BbtZYMuq1SwqtbxsFv DISCORD_URL=https://discord.com/api/webhooks/920070145139965984/zinLu94Q48owDd4PaDL709FNpWsFwDcZW--dAI-tEJH-slXKnWNdXAba9SSyzvuptUVf node sales_bot.js
+runSalesBot(); $ PROJECT_ADDRESS=2Af8Dtdt7a2Pvqu4dL5ybKyYp9BbtZYMuq1SwqtbxsFv DISCORD_URL=https://discord.com/api/webhooks/920070145139965984/zinLu94Q48owDd4PaDL709FNpWsFwDcZW--dAI-tEJH-slXKnWNdXAba9SSyzvuptUVf node sales_bot.js
 
 const printSalesInfo = (date, price, signature, title, marketplace, imageURL) => {
     console.log("-------------------------------------------")
